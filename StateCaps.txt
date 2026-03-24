@@ -1,0 +1,7 @@
+Kansas=Topeka
+Missouri=Jefferson City
+Iowa=Des Moines
+Colorado=Denver
+Nevada=Carson City
+Happiness=Thumbtown
+a=3

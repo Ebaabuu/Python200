@@ -1,0 +1,9 @@
+School1:Bear
+School2:Bear
+School3:Bear
+School4:Horse
+School5:Cat
+School6:Pikachu
+School7:penguin
+school8:Horse
+School9:Penguin

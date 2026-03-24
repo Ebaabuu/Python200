@@ -1,0 +1,100 @@
+County,Seat,Population
+Adair,Greenfield,7541
+Adams,Corning,3641
+Allamakee,Waukon,13926
+Appanoose,Centerville,12257
+Audubon,Audubon,5635
+Benton,Vinton,25691
+Black Hawk,Waterloo,130368
+Boone,Boone,26723
+Bremer,Waverly,25081
+Buchanan,Independence,20657
+Buena Vista,Storm Lake,20771
+Butler,Allison,14332
+Calhoun,Rockwell City,9915
+Carroll,Carroll,20692
+Cass,Atlantic,13050
+Cedar,Tipton,18410
+Cerro Gordo,Mason City,42706
+Cherokee,Cherokee,11503
+Chickasaw,New Hampton,11887
+Clarke,Osceola,9785
+Clay,Spencer,16440
+Clayton,Elkader,16998
+Clinton,Clinton,46463
+Crawford,Denison,16193
+Dallas,Adel,103796
+Davis,Bloomfield,9138
+Decatur,Leon,7659
+Delaware,Manchester,17510
+Des Moines,Burlington,38491
+Dickinson,Spirit Lake,17851
+Dubuque,Dubuque,98718
+Emmet,Estherville,9321
+Fayette,West Union,19258
+Floyd,Charles City,15413
+Franklin,Hampton,9952
+Fremont,Sidney,6567
+Greene,Jefferson,8717
+Grundy,Grundy Center,12347
+Guthrie,Guthrie Center,10567
+Hamilton,Webster City,14887
+Hancock,Garner,10663
+Hardin,Eldora,16708
+Harrison,Logan,14669
+Henry,Mount Pleasant,20387
+Howard,Cresco,9478
+Humboldt,Dakota City,9634
+Ida,Ida Grove,6956
+Iowa,Marengo,16568
+Jackson,Maquoketa,19368
+Jasper,Newton,37764
+Jefferson,Fairfield,15647
+Johnson,Iowa City,154748
+Jones,Anamosa,20805
+Keokuk,Sigourney,9914
+Kossuth,Algona,14529
+Lee,Fort Madison and Keokuk,33215
+Linn,Cedar Rapids,228939
+Louisa,Wapello,10749
+Lucas,Chariton,8710
+Lyon,Rock Rapids,12011
+Madison,Winterset,16773
+Mahaska,Oskaloosa,21984
+Marion,Knoxville,33380
+Marshall,Marshalltown,39853
+Mills,Glenwood,14465
+Mitchell,Osage,10555
+Monona,Onawa,8574
+Monroe,Albia,7610
+Montgomery,Red Oak,10322
+Muscatine,Muscatine,42688
+O'Brien,Primghar,14015
+Osceola,Sibley,6159
+Page,Clarinda,15197
+Palo Alto,Emmetsburg,8906
+Plymouth,Le Mars,25650
+Pocahontas,Pocahontas,7074
+Polk,Des Moines,496844
+Pottawattamie,Council Bluffs,93304
+Poweshiek,Montezuma,18586
+Ringgold,Mount Ayr,4639
+Sac,Sac City,9752
+Scott,Davenport,174170
+Shelby,Harlan,11770
+Sioux,Orange City,35893
+Story,Nevada,99472
+Tama,Toledo,16867
+Taylor,Bedford,5868
+Union,Creston,12018
+Van Buren,Keosauqua,7243
+Wapello,Ottumwa,35256
+Warren,Indianola,53402
+Washington,Washington,22491
+Wayne,Corydon,6508
+Webster,Fort Dodge,37147
+Winnebago,Forest City,10656
+Winneshiek,Decorah,19892
+Woodbury,Sioux City,105607
+Worth,Northwood,7385
+Wright,Clarion,12785
